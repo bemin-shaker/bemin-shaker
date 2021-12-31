@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🏫 Software Engineering student in the New York City metropolitan area. 
+📖 Always learning new technologies and concepts. 
+
