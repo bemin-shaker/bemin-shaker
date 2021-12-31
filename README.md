@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🏫 Software Engineering student in the New York City metropolitan area. 
-📖 Always learning new technologies and concepts. 
+- 🏫 Software Engineering student in the New York City metropolitan area. 
+- 📖 Always learning new technologies and concepts. 
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
