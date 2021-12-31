@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there👋  I'm Bemin.
 
 <!--
 **bemin-shaker/bemin-shaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🏫 Software Engineering student in the New York City metropolitan area.   
+📖 Always learning new technologies and concepts.  
 
-- 🏫 Software Engineering student in the New York City metropolitan area. 
-- 📖 Always learning new technologies and concepts. 
 
+#### [🔗 Check out my website!](https://beminshaker.com) ####
+
+### Here are some of the technologies I've been working with recently: ###
 
 
 | Skill | Frameworks, tools, & languages |
