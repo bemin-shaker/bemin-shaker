@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🏫 Software Engineering student in the New York City metropolitan area.   
-📖 Always learning new technologies and concepts.  
+📖 Always learning new technologies and software concepts.  
 
 
 #### [🔗 Check out my website!](https://beminshaker.com) ####
