@@ -1,4 +1,4 @@
-## Hi there👋  I'm Bemin.
+## Hi there 👋  I'm Bemin.
 
 <!--
 **bemin-shaker/bemin-shaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
